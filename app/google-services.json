@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "748295362214",
-    "project_id": "fir-bff2c",
-    "storage_bucket": "fir-bff2c.appspot.com"
+    "project_number": "263304686212",
+    "firebase_url": "https://aplikasifirebase-f5bb6-default-rtdb.firebaseio.com",
+    "project_id": "aplikasifirebase-f5bb6",
+    "storage_bucket": "aplikasifirebase-f5bb6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:748295362214:android:0d782554928362824f0667",
+        "mobilesdk_app_id": "1:263304686212:android:a965238af7c246013b70d1",
         "android_client_info": {
           "package_name": "com.example.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "748295362214-vute86rom2q4ctqdq4lhls9nv66ajtim.apps.googleusercontent.com",
+          "client_id": "263304686212-5djuogmbkrs3ft64jclo3r3jm4uhah9b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCYqciVSV3djXskETZ6hqyBtipNmdFcqUk"
+          "current_key": "AIzaSyDuhYHYKrZ0-w9iWhOwDhGoSZ05v7wuY7w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "748295362214-vute86rom2q4ctqdq4lhls9nv66ajtim.apps.googleusercontent.com",
+              "client_id": "263304686212-5djuogmbkrs3ft64jclo3r3jm4uhah9b.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

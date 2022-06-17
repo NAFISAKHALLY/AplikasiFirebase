@@ -13,12 +13,12 @@
         android:text="ENTRY DATA SISWA"
         android:textSize="20dp"
         android:textAlignment="center"
-        android:background="@color/purple_200"
+        android:background="@color/main"
         android:textColor="@color/black"
         />
     <View
         android:layout_width="match_parent"
-        android:background="@color/purple_200"
+        android:background="@color/main"
         android:layout_height="15dp">
 
     </View>
@@ -79,6 +79,7 @@
             android:layout_width="143dp"
             android:layout_height="60dp"
             android:text="ADD"
+            android:background="@color/main"
             android:textSize="20dp"
             />
         <View
@@ -89,6 +90,7 @@
             android:layout_width="143dp"
             android:layout_height="60dp"
             android:text="VIEW"
+            android:background="@color/main"
             android:textSize="20dp"
             />
 
